@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
+
+Short workshop for Flask I did:
+- https://youtu.be/xgwvtTH-p0s
